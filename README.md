@@ -30,6 +30,8 @@ The project spans the full product-analytics workflow: data analysis → metric 
 | `SellerPulse_PRD.md` | The product requirements doc: problem framing, findings, a RICE-prioritized set of interventions, and a North Star + guardrail metrics framework. |
 | `dashboard.png` | The Power BI dashboard (KPIs, milestone funnel, worst categories, cohort trend, health-score distribution). |
 | `/exports` | Clean CSVs output by the notebook and used to build the dashboard. |
+| `SellerPulse_SQL.ipynb` | The analysis re-derived in SQL (SQLite) — funnel, cohorts, and health signals via CTEs and window functions. |
+| `sql/sellerpulse_analysis.sql` | Standalone SQL queries. |
 
 ## The seller-health score
 
