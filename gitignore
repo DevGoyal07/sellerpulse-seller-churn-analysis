@@ -1,0 +1,10 @@
+# Raw Olist dataset — download from Kaggle, don't commit (large + not ours to redistribute)
+olist_*.csv
+product_category_name_translation.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
